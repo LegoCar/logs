@@ -1,5 +1,5 @@
 {
-    "name": "anplev/logs",
+    "name": "legocar/logs",
     "description": "For logging",
     "type": "package",
     "require": {
@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "aanplev",
-            "email": "x.anplev@gmail.com"
+            "name": "LegoCar",
+            "email": "server@lego-car.ru"
         }
     ]
 }
